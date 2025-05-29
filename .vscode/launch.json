@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-P1SpringbootWebApplication<p1-springboot-web>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cultodeportivo.p1_springboot_web.P1SpringbootWebApplication",
+            "projectName": "p1-springboot-web",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-P2SpringbootDiApplication<p2-springboot-di>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cultodeportivo.p2_springboot_di.P2SpringbootDiApplication",
+            "projectName": "p2-springboot-di",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
