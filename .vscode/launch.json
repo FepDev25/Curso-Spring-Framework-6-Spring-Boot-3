@@ -29,6 +29,36 @@
             "projectName": "p08-sprinboot-jpa",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-P1SpringbootWebApplication<p01-springboot-web>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cultodeportivo.p1_springboot_web.P1SpringbootWebApplication",
+            "projectName": "p01-springboot-web",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-P2SpringbootDiApplication<p02-springboot-di>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cultodeportivo.p2_springboot_di.P2SpringbootDiApplication",
+            "projectName": "p02-springboot-di",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-P7SpringbootAopApplication<p07-springboot-aop>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cultodeportivo.p7_springboot_aop.P7SpringbootAopApplication",
+            "projectName": "p07-springboot-aop",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
