@@ -1,36 +1,36 @@
-# Spring Framework 6 & Spring Boot 3 - Udemy Course Projects
+# Spring Framework 6 & Spring Boot 3 - Proyectos del Curso de Udemy
 
-This repository contains all the projects and notes created during the Udemy course "Spring Framework 6 & Spring Boot 3: From Zero to Expert" by Andrés Guzmán (udemy).
+Este repositorio contiene todos los proyectos y notas creados durante el curso de Udemy "Spring Framework 6 & Spring Boot 3: De Cero a Experto" por Andrés Guzmán (udemy).
 
-## Udemy Course Certificate
-![Udemy Course Certificate](certificado/UC-99fc72ec-4abc-40d4-b4d8-2d5733b029fe.jpg)
+## Certificado del Curso de Udemy
+![Certificado del Curso de Udemy](certificado/UC-99fc72ec-4abc-40d4-b4d8-2d5733b029fe.jpg)
 
-## Course Projects
-- `p01-springboot-web`: Project focusing on Spring Boot Web.
-- `p02-springboot-di`: Project focusing on Dependency Injection in Spring Boot.
-- `p03-springboot-di-factura`: Project focusing on Dependency Injection and Invoices in Spring Boot.
-- `p04-springoot-error`: Project focusing on Error Handling in Spring Boot.
-- `p05-springboot-interceptor`: Project focusing on Interceptors in Spring Boot.
-- `p06-springboot-interceptor-horario`: Project focusing on Interceptors and Schedules in Spring Boot.
-- `p07-springboot-aop`: Project focusing on Aspect-Oriented Programming in Spring Boot.
-- `p08-sprinboot-jpa`: Project focusing on Spring Boot with JPA.
-- `p09-springboot-jpa-relationship`: Project focusing on JPA Relationships in Spring Boot.
-- `p10-springboot-crud`: Project focusing on CRUD Operations in Spring Boot.
-- `p11-spring-security-jwt`: Project focusing on Spring Security and JWT.
-- `p12-auth-server`: Project focusing on Authorization Server with Spring Security.
-- `p12-client-app`: Project focusing on Client App with Spring Security.
-- `p13-forntend-react-backend-springboot`: Project focusing on Frontend with React and Backend with Spring Boot.
-- `p14-frontend-angular-backend-springboot`: Project focusing on Frontend with Angular and Backend with Spring Boot.
+## Proyectos del Curso
+- `p01-springboot-web`: Proyecto enfocado en Spring Boot Web.
+- `p02-springboot-di`: Proyecto enfocado en Inyección de Dependencias en Spring Boot.
+- `p03-springboot-di-factura`: Proyecto enfocado en Inyección de Dependencias y Facturas en Spring Boot.
+- `p04-springoot-error`: Proyecto enfocado en Manejo de Errores en Spring Boot.
+- `p05-springboot-interceptor`: Proyecto enfocado en Interceptores en Spring Boot.
+- `p06-springboot-interceptor-horario`: Proyecto enfocado en Interceptores y Horarios en Spring Boot.
+- `p07-springboot-aop`: Proyecto enfocado en Programación Orientada a Aspectos en Spring Boot.
+- `p08-sprinboot-jpa`: Proyecto enfocado en Spring Boot con JPA.
+- `p09-springboot-jpa-relationship`: Proyecto enfocado en Relaciones JPA en Spring Boot.
+- `p10-springboot-crud`: Proyecto enfocado en Operaciones CRUD en Spring Boot.
+- `p11-spring-security-jwt`: Proyecto enfocado en Spring Security y JWT.
+- `p12-auth-server`: Proyecto enfocado en Servidor de Autorización con Spring Security.
+- `p12-client-app`: Proyecto enfocado en Aplicación Cliente con Spring Security.
+- `p13-forntend-react-backend-springboot`: Proyecto enfocado en Frontend con React y Backend con Spring Boot.
+- `p14-frontend-angular-backend-springboot`: Proyecto enfocado en Frontend con Angular y Backend con Spring Boot.
 
-## Course Notes
-The `1_notas` directory contains detailed notes for various topics covered in the course. These notes are organized into the following main themes:
-- Introducción to Spring Boot
+## Notas del Curso
+El directorio `1_notas` contiene apuntes detallados sobre varios temas cubiertos en el curso. Estas notas están organizadas en los siguientes temas principales:
+- Introducción a Spring Boot
 - Spring MVC
-- Inyección de Dependencias (Dependency Injection)
-- Manejo de Errores (Error Handling)
-- Interceptores (Interceptors)
-- Programación Orientada a Aspectos (AOP - Aspect-Oriented Programming)
-- JPA e Hibernate (JPA and Hibernate)
-- Proyecto CRUD (CRUD Project)
+- Inyección de Dependencias
+- Manejo de Errores
+- Interceptores
+- Programación Orientada a Aspectos (AOP)
+- JPA e Hibernate
+- Proyecto CRUD
 - JWT (JSON Web Tokens)
-- Despliegue (Deployment)
+- Despliegue
