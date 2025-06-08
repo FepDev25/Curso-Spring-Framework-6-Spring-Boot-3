@@ -19,6 +19,16 @@
             "projectName": "p2-springboot-di",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-P8SprinbootJpaApplication<p08-sprinboot-jpa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cultodeportivo.p8_sprinboot_jpa.P8SprinbootJpaApplication",
+            "projectName": "p08-sprinboot-jpa",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
